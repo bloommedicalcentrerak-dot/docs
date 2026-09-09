@@ -16,8 +16,10 @@ children:
   - /models
   - /usage-limits
   - /billing
+  - /about-enterprise-accounts-for-copilot-business
+  - /policies
+  - /mcp-management
   - /network-settings
-  - /enterprise
+  - /learning-about-new-features-and-models
 contentType: concepts
 ---
-

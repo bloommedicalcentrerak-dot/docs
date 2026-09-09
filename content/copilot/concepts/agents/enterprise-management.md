@@ -1,14 +1,12 @@
 ---
 title: Agent management for enterprises
-shortTitle: Agent management
-intro: Maintain your enterprise's security and compliance standards and supercharge your developers by managing agents with AI Controls.
+shortTitle: Enterprise management
+intro: 'Maintain your enterprise''s security and compliance standards and supercharge your developers by managing agents with AI Controls.'
 versions:
   feature: copilot
 contentType: concepts
 category:
   - Learn about Copilot
-redirect_from:
-  - /copilot/concepts/agents/enterprise-management
 ---
 
 ## Overview
@@ -85,3 +83,4 @@ For more information, see [AUTOTITLE](/copilot/how-tos/administer-copilot/manage
 ## Agent mode in the IDE
 
 Enterprise and organization owners can separately control whether their users have access to agent mode in IDE chat, independently from the "Chat in IDE" policy. This gives you finer-grained control over agentic capabilities in your developers' IDEs.
+
